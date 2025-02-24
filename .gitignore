@@ -62,3 +62,26 @@ backend/sendgrid.env
 
 *.jsonl
 *.csv
+
+# Node dependencies (you're missing this)
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Cache directories
+.cache/
+.next/
+
+# Coverage reports
+coverage/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+.eggs/
